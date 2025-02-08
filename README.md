@@ -37,3 +37,15 @@ Ensure you have the following installed before setting up the project:
 MONGODB_URI=mongodb+srv://<username>:<password>@clusterName.xxxxxxx.mongodb.net/blog
 JWT_SECRET=MySecretBlog
 ```
+---
+## **Admin Dashboard Access**
+
+To access the **admin dashboard**, navigate to:
+URL/admin
+
+
+Use the following credentials:  
+- **Username:** `margo`  
+- **Password:** `password`  
+
+The **admin panel** allows you to **create, edit, and delete blog posts**.
